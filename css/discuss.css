@@ -27,6 +27,7 @@ body .download:hover{
   position: relative;
   border-radius: 0 !important;
   border-color: transparent;
+  border-top-color: #d7d7d7;
 }
 
 .panel .handle{
@@ -119,8 +120,8 @@ body .download:hover{
 }
 
 #addNewPanel{
-  border-bottom-left-radius: 15px !important;
-  border-bottom-right-radius: 15px !important;
+  border-bottom-left-radius: 13px !important;
+  border-bottom-right-radius: 13px !important;
   overflow: hidden;
   margin: 0px;
 }
