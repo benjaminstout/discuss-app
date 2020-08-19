@@ -11,4 +11,4 @@ This is a web app to manage candidate screen questions, and as required of [the 
 
 Designed and built entirely from scratch by yours truly. It features a fully-responsive, simplistic design utilizing the [Bootstrap](http://getbootstrap.com/) framework, [jQuery](https://jquery.com/) and [jQuery UI](http://jqueryui.com/).
 
-Hosted at https://benjaminstout.me/discuss and https://benjaminstout.github.io/discuss-app/
+Hosted at https://stoutput.github.io/discuss-app/
